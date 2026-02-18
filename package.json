@@ -8,29 +8,33 @@
     <meta name="author" content="Denizli Taksi" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#EAB308" />
-    
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://denizlitaksi.com.tr" />
     <meta property="og:title" content="Denizli Taksi - Hızlı ve Güvenilir Ulaşım" />
     <meta property="og:description" content="Denizli'nin en hızlı ve güvenilir taksi hizmeti. 7/24 kesintisiz hizmet. Hemen arayın!" />
-    <meta property="og:image" content="/taxi-hero.jpg" />
-    
+    <meta property="og:image" content="https://denizlitaksi.com.tr/taxi-hero.jpg" />
+
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://denizlitaksi.com.tr" />
     <meta property="twitter:title" content="Denizli Taksi - Hızlı ve Güvenilir Ulaşım" />
     <meta property="twitter:description" content="Denizli'nin en hızlı ve güvenilir taksi hizmeti. 7/24 kesintisiz hizmet. Hemen arayın!" />
-    <meta property="twitter:image" content="/taxi-hero.jpg" />
-    
+    <meta property="twitter:image" content="https://denizlitaksi.com.tr/taxi-hero.jpg" />
+
     <!-- Canonical URL -->
     <link rel="canonical" href="https://denizlitaksi.com.tr" />
-    
+
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚕</text></svg>" />
-    
+    <link rel="icon" type="image/svg+xml" 
+      href="data:image/svg+xml,
+      <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+        <text y='.9em' font-size='90'>🚕</text>
+      </svg>" />
+
     <title>Denizli Taksi - Hızlı ve Güvenilir Ulaşım | 7/24 Hizmet</title>
-    
+
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
     {
@@ -40,6 +44,7 @@
       "description": "Denizli'nin en hızlı ve güvenilir taksi hizmeti. 7/24 kesintisiz hizmet.",
       "url": "https://denizlitaksi.com.tr",
       "telephone": "+905551234567",
+      "image": "https://denizlitaksi.com.tr/taxi-hero.jpg",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Saraylar Mahallesi",
@@ -49,25 +54,26 @@
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "37.774",
-        "longitude": "29.086"
+        "latitude": 37.774,
+        "longitude": 29.086
       },
       "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
       "priceRange": "₺",
-      "image": "/taxi-hero.jpg",
       "areaServed": {
         "@type": "City",
         "name": "Denizli"
       }
     }
     </script>
-    
+
     <!-- Preconnect to Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   </head>
+
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
+
