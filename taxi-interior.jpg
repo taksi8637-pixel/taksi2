@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Denizli'nin en hızlı ve güvenilir taksi hizmeti. 7/24 kesintisiz hizmet, profesyonel şoförler, modern araç filosu. Hemen arayın: 0555 123 45 67" />
+    <meta name="keywords" content="Denizli taksi, acil taksi, taksi çağır, Denizli ulaşım, havalimanı transferi, 7/24 taksi, Pamukkale taksi" />
+    <meta name="author" content="Denizli Taksi" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#EAB308" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://denizlitaksi.com.tr" />
+    <meta property="og:title" content="Denizli Taksi - Hızlı ve Güvenilir Ulaşım" />
+    <meta property="og:description" content="Denizli'nin en hızlı ve güvenilir taksi hizmeti. 7/24 kesintisiz hizmet. Hemen arayın!" />
+    <meta property="og:image" content="./taxi-hero.jpg" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://denizlitaksi.com.tr" />
+    <meta property="twitter:title" content="Denizli Taksi - Hızlı ve Güvenilir Ulaşım" />
+    <meta property="twitter:description" content="Denizli'nin en hızlı ve güvenilir taksi hizmeti. 7/24 kesintisiz hizmet. Hemen arayın!" />
+    <meta property="twitter:image" content="/taxi-hero.jpg" />
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://denizlitaksi.com.tr" />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚕</text></svg>" />
+    
+    <title>Denizli Taksi - Hızlı ve Güvenilir Ulaşım | 7/24 Hizmet</title>
+    
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Denizli Taksi",
+      "description": "Denizli'nin en hızlı ve güvenilir taksi hizmeti. 7/24 kesintisiz hizmet.",
+      "url": "https://denizlitaksi.com.tr",
+      "telephone": "+905551234567",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saraylar Mahallesi",
+        "addressLocality": "Pamukkale",
+        "addressRegion": "Denizli",
+        "addressCountry": "TR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "37.774",
+        "longitude": "29.086"
+      },
+      "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
+      "priceRange": "₺",
+      "image": "/taxi-hero.jpg",
+      "areaServed": {
+        "@type": "City",
+        "name": "Denizli"
+      }
+    }
+    </script>
+    
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <script type="module" crossorigin src="./assets/index-DYv-P_hg.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DozmxKFW.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
